@@ -6,6 +6,9 @@ import java.util.regex.Pattern;
 
 /**
  * Programa para extraer información de un texto usando expresiones regulares o regex
+ * Autor:
+ * Matrícula: 100232110
+ * Nombre: Irwin Gonzalez
  */
 public class RegexExtractorApp {
 
